@@ -1,0 +1,80 @@
+.position-sticky img{
+    margin-left: 15px;
+}
+header img{
+    width: 250px;
+    height: 60px;
+    margin-left: 35px ;
+}
+.header-container p{
+    margin-left: 30px;
+}
+.github{
+    width: 26px;
+    height: 26px;
+    margin-left: 35px;
+}
+
+.container-body h1{
+    font-size: 6rem;
+}
+.main-container--diseño{
+    height: 720px;
+    padding: 0 5px;
+}
+.post-img img{
+   
+    height: auto;
+    margin-top: 50px;
+}
+.main-button{
+    margin-left: 250px;
+    margin-top: 34px;
+}
+.container-landing--body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-landing--body h2{
+    font-size: 4.8rem;
+}
+.landig--body2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.landig--body2 h2{
+    font-size: 4.8rem;
+}
+.landig--body3 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.landig--body3 h2{
+    font-size: 4.8rem;
+}
+.landig--body4 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.landig--body4 h2{
+    font-size: 4.8rem;
+}
+.landig--body5 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.landig--body5 h2{
+    font-size: 4.8rem;
+}
+.grid-img{
+    margin-right: 150px;
+}
+.landing-entry{
+    height: 3950px;
+}

@@ -1,0 +1,9 @@
+.main-tables-container{
+    width: 1086px;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+.plans-container--slider{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
